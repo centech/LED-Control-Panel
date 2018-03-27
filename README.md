@@ -64,4 +64,8 @@ Now to be able to "overwrite" this settings i decided to use three switches (red
 
 This is the schematic i came up with. Feel free to use and optimize it. Please bear in mind that at that point i didn't think about writing a report about my project. Thats why its very crude looking.
 
-![schematic](/images/schematic.JPG?raw=true "Optional Title")
+<img src="/images/schematic.JPG" alt="alt text" width="640px"> 
+
+Here is the layout. Red lines are cables, blue lines are soldered wires on the board. (I leave this here for completeness but do your self a favour and create your own, better schematic and layout!).
+
+<img src="/images/layout.JPG" alt="alt text" width="640px"> 
