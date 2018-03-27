@@ -60,7 +60,13 @@ I wanted the following features/requirements fullfilled by my modules
 I'm sure there are better solutions out there but i found these PWM Modules which actual purpose is to control motors. But i found out that it worked just fine as a RGB controler.
 So thats how it would be able to adjust each color individually. 
 
-Now to be able to "overwrite" this settings i decided to use three switches (red, green, blue) to get each LED in full brightness mode with a simple click. By combining these buttons one could create a total of 7 colors (red, green, blue, cyan, magenta, yellow, white)
+<img src="/images/PWM.JPG" alt="pwm" width="640px"> 
+
+Now to be able to "overwrite" this settings i decided to use three switches (red, green, blue) to get each LED in full brightness mode with a simple click. 
+
+<img src="/images/switch.JPG" alt="switch" width="640px"> 
+
+By combining these buttons one could create a total of 7 colors (red, green, blue, cyan, magenta, yellow, white)
 
 This is the [board schematic](/board/board.sch) i came up with. Feel free to use and optimize it. Please bear in mind that at that point i didn't think about writing a report about my project. Thats why its very crude looking.
 
