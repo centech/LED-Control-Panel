@@ -5,7 +5,8 @@ How i created a backlit RGB-LED Control Panel for my kids (Report / DIY Guide)
 
 Final results first of cause :)
 
-![Overview Image](/images/overview1.JPG?raw=true "Optional Title")
+<img src="/images/overview1.JPG" alt="alt text" width="640px"> 
+
 
 What follows is a list of my used components, as well as a few words where i took my inspirations. Finally the detailed report with a few suggestions for potential recreations. 
 But make sure to read through, since i made some glorious errors which like always will only be unveiled at the very end :)
