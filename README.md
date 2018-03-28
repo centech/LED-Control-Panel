@@ -133,3 +133,18 @@ Although i was pretty happy with the cable assembly at this time, it was not ver
 1. Make the cables **much longer**! I can't stress this enough: at least trippling the cables lenght would have saved me a lot of hassle. It seems counter intuitive at first but you can achive a much more cleard and sorted cable harness in the box if the cables are long enough. With such short cables the box seems much more crowded and its cumbersome to lift the panel and detach the connectors. Also its bad for the backlight if the cables are not sorted properly.
 
 2. If you think you are smart by soldering connectors to your switches make at least sure that every switch gets its own connector. If not, well we will see that later.
+
+#### Soldering the Connector-Board
+
+Since i forgot to add the power supply for the LEDs in the switches i've added a 10 Pin Socket with 12V/GND outputs.
+
+<p float="auto">
+  <img src="/images/board1.jpg" alt="alt text" width="45%">
+  <img src="/images/board3.jpg" alt="alt text" width="45%"> 
+</p>
+
+I've also added a 12 Pin Socket (in series connected) to hook up 4 LEDs for the backlight. The suggested supply voltage for the LEDs is 3.4V. Using my 12-Pin Socket and powering it with the 12V supply i get an effective supply voltage of 3V at every LED, which works just fine. This way i didn't need to  convert the supply voltage or to use series resistors.
+
+<p float="auto">
+  <img src="/images/board2.jpg" alt="alt text" width="90%">
+</p>
