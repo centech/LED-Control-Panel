@@ -24,8 +24,8 @@ Final results first of cause :)
 
 
 
-What follows is a list of my used components, as well as a few words where i took my inspirations. Finally the detailed report with a few suggestions for potential recreations. 
-But make sure to read through, since i made some glorious errors which like always will only be unveiled at the very end :)
+What follows is a list of my used components, as well as a few words where i took my inspiration. Finally the detailed report with a few suggestions for potential recreations. 
+But make sure to read through, since i made some glorious errors :)
 
 ### List of used components
 
@@ -41,8 +41,8 @@ But make sure to read through, since i made some glorious errors which like alwa
 
 - Total material costs approx: **35 Euro**
 
-To most expensive piece was the custom panel i made with [Ponoko](https://www.ponoko.com/) but this was mainly because of the high shipping costs to germany.
-I've used the [Black on White](https://www.ponoko.com/make-and-sell/show-material/607-acrylic-two-color-black-on-white) Material. Depending on your design and shipment location you might be able to 
+The most expensive piece was the custom panel i made with [Ponoko](https://www.ponoko.com/) but this was mainly because of the high shipping costs to Germany.
+I've used the [Black on White](https://www.ponoko.com/make-and-sell/show-material/607-acrylic-two-color-black-on-white) material. Depending on your design and shipment location you might be able to 
 create this panel much cheaper.
 
 **Panel costs:**
@@ -56,48 +56,48 @@ Total costs approx: **96 Euro ($120)**
 
 Since i saw the [Spaceship Panel](https://imgur.com/gallery/dqK7A) Cody2084 created i wanted to make something similar for my kids. I loved the idea of creating
 something - anything - which was backlit and had buttons on it :). So when i needed a bit more light in the room of my kids this was the perfect excuse to create
-a **RGB-LED Control Panel**! It has to be backlit of cause (how could you see it otherwise? Its dark in the room, remeber?). And of cause it needed to have big colorful buttons,
-how else would the kids be able to use it? And its not like you could simply buy these control modules, right? So in this dire situation i was practically without any other option: i had to build it on my own!
+a **RGB-LED Control Panel**! It has to be backlit of cause (how could you see it otherwise? Its dark in the room, remeber?). And of cause it needed to have big colorful buttons.
+How else would the kids be able to use it? And its not like you could simply buy these control modules, right? So in this dire situation i was practically without any other option: **i had to build it on my own**!
 
-Before i dive into my report, i want to thank Cody2084 again for his great Report on his Spaceship Panel, i hope you doesn't mind that i took quite some inspirations from it.
+Before i dive into my report, i want to thank Cody2084 again for his great report on his Spaceship Panel, i hope he doesn't mind that i took quite some inspirations from it.
 
 ## Report
 
 Ok before you start make sure that you choose the right buttons, switches and controls for your panel. The diversity is huge.
 
-I wanted the following features/requirements fullfilled by my modules
+I wanted the following features/requirements fullfilled by my control panel
 
-- LED Color and Brightness should be fully adjustable
+- LED color and brightness should be fully adjustable
 - There should be a fast way to get the LED to full brightness and white color. But this feature should not wipe the settings of the custom adjusted color and brightness.
-- The Module shoult have an on/off switch
-- All Controls should have a connector, so that the panel would be easy to remove
+- The module shoult have an on/off switch
+- All controls should have a connector, so that the panel would be easy to remove
 - Of cause the module should be backlit
 - I didn't want to solder the ICs on my own while i was fine with soldering a few wire lines and connectors
 
 ### The Electronics
 
-I'm sure there are better solutions out there but i found these PWM Modules which actual purpose is to control motors. But i found out that it worked just fine as a RGB controler.
+I'm sure there are better solutions out there but i found these PWM modules to control the RGB LEDs. Its actual purpose is to control motors. But i found out that it worked just fine as a RGB controler.
 So thats how it would be able to adjust each color individually. 
 
 <img src="/images/PWM.JPG" alt="pwm" width="320px"> 
 
-Now to be able to "overwrite" this settings i decided to use three switches (red, green, blue) to get each LED in full brightness mode with a simple click. 
+Now to be able to "overwrite" this settings i decided to use three switches (red, green, blue) to get each LED in full brightness mode with a simple press. 
 
 <img src="/images/switch.JPG" alt="switch" width="640px"> 
 
-By combining these buttons one could create a total of 7 colors (red, green, blue, cyan, magenta, yellow, white)
+By combining these buttons one could create a total of 7 colors (red, green, blue, cyan, magenta, yellow, white).
 
-This is the [board schematic](/board/board.sch) i came up with. Feel free to use and optimize it. Please bear in mind that at that point i didn't think about writing a report about my project. Thats why its very crude looking.
+This is the [board schematic](/board/board.sch) i came up with. Feel free to use and optimize it. Please bear in mind that at that point i didn't think about writing a report about my project. Thats why its looking very crude.
 
 <img src="/images/schematic.JPG" alt="alt text" width="640px"> 
 
-Here is the [board layout](/board/board.brd). Red lines are cables, blue lines are soldered wires on the board. (I leave this here for completeness but do your self a favour and create your own better schematic and layout!).
+Here is the [board layout](/board/board.brd). Red lines are cables, blue lines are soldered wires on the board. (I leave this here for completeness but do your self a favour and create your own, better schematic and layout!).
 
 <img src="/images/layout.JPG" alt="alt text" width="640px"> 
 
 ### The Panel
 
-Beeing sure on what components to use i started designing the panel. As mentioned before I've used the [Black on White](https://www.ponoko.com/make-and-sell/show-material/607-acrylic-two-color-black-on-white) Material from Ponoko. I wasn't sure if the white is translucent enough for the backlighting but since there was no other fitting material available i took the risk.
+Beeing sure on what components to use i started designing the panel. As mentioned before I've used the [Black on White](https://www.ponoko.com/make-and-sell/show-material/607-acrylic-two-color-black-on-white) material from Ponoko. I wasn't sure if the white is translucent enough for the backlighting but since there was no other fitting material available i took the risk.
 Ponoko has some easy to understand tutorials and templates. So it was easy enough to create my design. I've [uploaded it here](/panel/Panel.svg), feel free to use it as a template. 
 
 <p float="auto">
@@ -105,7 +105,7 @@ Ponoko has some easy to understand tutorials and templates. So it was easy enoug
   <img src="/images/panel2.jpg" alt="alt text" width="45%"> 
 </p>
 
-In retrospective i would probably increase the drilling holes for the PWMs and Switches to allow for a little more tolerance. Otherwise it turned out to be just perfect! Make sure to leave a big enough border, since there will be our wood frame and no backlight can reach this region. Also add a cutting line on the perimeter for a clean material cut and also include the mounting holes. By the way i used the free software [Inkscape](https://inkscape.org/) and it worked like a charm.
+In retrospective i would probably increase the drilling holes for the PWMs and switches to allow for a little more tolerance. Otherwise it turned out to be just perfect! Make sure to leave a big enough border, since there will be the wood frame and no backlight can reach this region. Also add a cutting line on the perimeter for a clean material cut and also include the mounting holes. By the way i used the free software [Inkscape](https://inkscape.org/) and it worked like a charm.
 
 ### Cable Assembly
 
@@ -147,7 +147,7 @@ Although i was pretty happy with the cable assembly at this time, it was not ver
 
 ### Soldering the Connector-Board
 
-Since i forgot to add the power supply for the LEDs in the switches i've added a 10 Pin Socket with 12V/GND outputs.
+Since i forgot to add the power supply for the LEDs in the switches to the schematic i've added a 10 Pin Socket with 12V/GND outputs to the board afterwards.
 
 <p float="auto">
   <img src="/images/board1.jpg" alt="alt text" width="45%">
@@ -252,7 +252,7 @@ At that point i realized i didn't have a fitting drill for my router. So i decid
   <img src="/images/box12.jpg" alt="alt text" width="45%">
 </p>
 
-Drilling in the threads is not so easy. I also drilled 2 holes in the backpanel to make it easiert to mount it to the wall.
+Screwing in the threads is not so easy. I also drilled 2 holes in the backpanel to make it easiert to mount it to the wall.
 
 <p float="auto">
   <img src="/images/box13.jpg" alt="alt text" width="45%">
@@ -267,14 +267,14 @@ Now glue the frame togher. After that glue the frame to the buttom.
   <img src="/images/box17.jpg" alt="alt text" width="30%">
 </p>
 
-In the mean time i applied a natural [oil/wax mixture](https://www.amazon.de/gp/product/B002AP6YBW/) for protection and better look.
+In the meantime i applied a natural [oil/wax mixture](https://www.amazon.de/gp/product/B002AP6YBW/) for protection and better look.
 
 <p float="auto">
   <img src="/images/box18.jpg" alt="alt text" width="45%">
   <img src="/images/box18a.jpg" alt="alt text" width="45%">
 </p>
 
-After thats done i assembled to PWMs to the frame:
+After thats done i assembled the PWMs to the frame:
 
 <p float="auto">
   <img src="/images/box19.jpg" alt="alt text" width="45%">
@@ -320,7 +320,7 @@ Since everything worked out, i finally glued it the power supply socket and moun
 
 ### Done
 
-Finally done!
+Finally done! I'm very pleased how it turned out. The backlight effect is better than i hoped for. As always there are quite a few things i would have done different in retrospective, above all allowing for much longer cables to be able to mount the cables to the frame. This wasn't possible this time and effects the handling and backlight. But all in all it was a very fun project and i am very happy how it turned out.
 
 <p float="auto">
   <img src="/images/box33.jpg" alt="alt text" width="45%">
@@ -328,7 +328,7 @@ Finally done!
 </p>
 
 Mounting it to the wall and let the kids play.
-Ofcause I need to regualry test it to insure its still working properly :)
+Ofcause I need to regularly test it to insure its still working properly :)
 
 <p float="auto">
   <img src="/images/result1.jpg" alt="alt text" width="45%">
