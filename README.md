@@ -63,7 +63,7 @@ I wanted the following features/requirements fullfilled by my modules
 - Of cause the module should be backlit
 - I didn't want to solder the ICs on my own while i was fine with soldering a few wire lines and connectors
 
-#### The Electronics
+### The Electronics
 
 I'm sure there are better solutions out there but i found these PWM Modules which actual purpose is to control motors. But i found out that it worked just fine as a RGB controler.
 So thats how it would be able to adjust each color individually. 
@@ -84,7 +84,7 @@ Here is the [board layout](/board/board.brd). Red lines are cables, blue lines a
 
 <img src="/images/layout.JPG" alt="alt text" width="640px"> 
 
-#### The Panel
+### The Panel
 
 Beeing sure on what components to use i started designing the panel. As mentioned before I've used the [Black on White](https://www.ponoko.com/make-and-sell/show-material/607-acrylic-two-color-black-on-white) Material from Ponoko. I wasn't sure if the white is translucent enough for the backlighting but since there was no other fitting material available i took the risk.
 Ponoko has some easy to understand tutorials and templates. So it was easy enough to create my design. I've [uploaded it here](/panel/Panel.svg), feel free to use it as a template. 
@@ -96,7 +96,7 @@ Ponoko has some easy to understand tutorials and templates. So it was easy enoug
 
 In retrospective i would probably increase the drilling holes for the PWMs and Switches to allow for a little more tolerance. Otherwise it turned out to be just perfect! Make sure to leave a big enough border, since there will be our wood frame and no backlight can reach this region. Also add a cutting line on the perimeter for a clean material cut and also include the mounting holes. By the way i used the free software [Inkscape](https://inkscape.org/) and it worked like a charm.
 
-#### Cable Assembly
+### Cable Assembly
 
 As mentioned above i wanted the switches to have a connector, so the panel would be easily demountable. So its soldering time! 
 
@@ -134,7 +134,7 @@ Although i was pretty happy with the cable assembly at this time, it was not ver
 
 2. If you think you are smart by soldering connectors to your switches make at least sure that every switch gets its own connector. If not, well we will see that later.
 
-#### Soldering the Connector-Board
+### Soldering the Connector-Board
 
 Since i forgot to add the power supply for the LEDs in the switches i've added a 10 Pin Socket with 12V/GND outputs.
 
