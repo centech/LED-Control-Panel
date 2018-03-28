@@ -5,7 +5,7 @@ How i created a backlit RGB-LED Control Panel for my kids (Report / DIY Guide)
 
 Final results first of cause :)
 
-<img src="/images/final2.jpg" alt="alt text" width="640px"> 
+<img src="/images/final2.jpg" alt="alt text" width="90%"> 
 <p float="left">
   <img src="/images/final1.jpg" alt="alt text" width="45%">
   <img src="/images/final3.jpg" alt="alt text" width="45%"> 
@@ -66,7 +66,7 @@ I wanted the following features/requirements fullfilled by my modules
 I'm sure there are better solutions out there but i found these PWM Modules which actual purpose is to control motors. But i found out that it worked just fine as a RGB controler.
 So thats how it would be able to adjust each color individually. 
 
-<img src="/images/PWM.JPG" alt="pwm" width="640px"> 
+<img src="/images/PWM.JPG" alt="pwm" width="320px"> 
 
 Now to be able to "overwrite" this settings i decided to use three switches (red, green, blue) to get each LED in full brightness mode with a simple click. 
 
