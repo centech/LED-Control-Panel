@@ -308,3 +308,30 @@ After the box was nearly finished i applied the panel to the box, marked the hol
   <img src="/images/box26.jpg" alt="alt text" width="45%">
   <img src="/images/box27.jpg" alt="alt text" width="45%">
 </p>
+
+Since everything worked out, i finally glued it the power supply socket and mounted the 4 backlight LEDs to the frame:
+
+<p float="auto">
+  <img src="/images/box31.jpg" alt="alt text" width="45%">
+  <img src="/images/box32.jpg" alt="alt text" width="45%">
+</p>
+
+Finally done!
+
+<p float="auto">
+  <img src="/images/box33.jpg" alt="alt text" width="45%">
+  <img src="/images/final1.jpg" alt="alt text" width="45%">
+</p>
+
+Mounting it to the wall and let the kids play.
+Ofcause I need to regualry test it to insure its still working properly :)
+
+<p float="auto">
+  <img src="/images/result1.jpg" alt="alt text" width="45%">
+  <img src="/images/result2.jpg" alt="alt text" width="45%">
+</p>
+
+<p float="auto">
+  <img src="/images/result3.jpg" alt="alt text" width="45%">
+  <img src="/images/result4.jpg" alt="alt text" width="45%">
+</p>
