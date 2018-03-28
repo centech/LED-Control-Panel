@@ -8,7 +8,7 @@ Final results first of cause :)
 <img src="/images/final2.jpg" alt="alt text" width="640px"> 
 <p float="left">
   <img src="/images/final1.jpg" alt="alt text" width="45%">
-  <img src="/images/final3.jpg" alt="alt text" width="45px"> 
+  <img src="/images/final3.jpg" alt="alt text" width="45%"> 
 </p>
 
 
