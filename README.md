@@ -63,6 +63,8 @@ I wanted the following features/requirements fullfilled by my modules
 - Of cause the module should be backlit
 - I didn't want to solder the ICs on my own while i was fine with soldering a few wire lines and connectors
 
+#### The Electronics
+
 I'm sure there are better solutions out there but i found these PWM Modules which actual purpose is to control motors. But i found out that it worked just fine as a RGB controler.
 So thats how it would be able to adjust each color individually. 
 
@@ -82,3 +84,11 @@ Here is the [board layout](/board/board.brd). Red lines are cables, blue lines a
 
 <img src="/images/layout.JPG" alt="alt text" width="640px"> 
 
+#### The Panel
+
+Beeing sure on what components to use i started designing the panel. As mentioned before I've used the [Black on White](https://www.ponoko.com/make-and-sell/show-material/607-acrylic-two-color-black-on-white) Material from Ponoko. I wasn't sure if the white is translucent enough for the backlighting but since there was no other fitting material available i took the risk.
+Ponoko has some easy to understand tutorials and templates. So it was easy enough to create my design. I've [uploaded it here](/panel/Panel.svg), feel free to use it as a template. 
+
+<img src="/images/panel.JPG" alt="alt text" width="320px"> 
+
+In retrospective i would probably increase the drilling holes for the PWMs and Switches to allow for a little more tolerance. Otherwise it turned out to be just perfect! Make sure to leave a big enough border, since there will be our wood frame it no backlight can reach this region. Also add a cutting line on the perimeter for a clean material cut and also include the mounting holes. By the way i used the free software [Inkscape](https://inkscape.org/) and it worked like a charm.
