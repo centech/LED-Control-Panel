@@ -83,7 +83,7 @@ So thats how it would be able to adjust each color individually.
 
 Now to be able to "overwrite" this settings i decided to use three switches (red, green, blue) to get each LED in full brightness mode with a simple press. 
 
-<img src="/images/switch.JPG" alt="switch" width="640px"> 
+<img src="/images/switch.JPG" alt="switch" width="320px"> 
 
 By combining these buttons one could create a total of 7 colors (red, green, blue, cyan, magenta, yellow, white).
 
