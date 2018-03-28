@@ -126,3 +126,10 @@ At last i prepared the LEDs for the backlight.
   <img src="/images/led.jpg" alt="alt text" width="45%">
 </p>
 
+**Lessons learned**
+
+Although i was pretty happy with the cable assembly at this time, it was not very well thought out in retrospective. In a rebuild i would certainly change the following: 
+
+1. Make the cables **much longer**! I can't stress this enough: at least trippling the cables lenght would have saved me a lot of hassle. It seems counter intuitive at first but you can achive a much more cleard and sorted cable harness in the box if the cables are long enough. With such short cables the box seems much more crowded and its cumbersome to lift the panel and detach the connectors. Also its bad for the backlight if the cables are not sorted properly.
+
+2. If you think you are smart by soldering connectors to your switches make at least sure that every switch gets its own connector. If not, well we will see that later.
