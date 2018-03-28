@@ -239,7 +239,7 @@ In my case everything was to my satisfaction and i continue with marking all dri
   <img src="/images/box9.jpg" alt="alt text" width="45%">
 </p>
 
-The downside of the PWM boards is that the knob is directly soldered to the board, this way i needed to board to be on the very edge of the frame.
+The downside of the PWM boards is that the knob is directly soldered to the board, this way i needed the board to be on the very edge of the frame.
 
 <p float="auto">
   <img src="/images/box10.jpg" alt="alt text" width="45%">
