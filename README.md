@@ -6,7 +6,7 @@ How i created a backlit RGB-LED Control Panel for my kids (Report / DIY Guide)
 Final results first of cause :)
 
 <img src="/images/final2.jpg" alt="alt text" width="90%"> 
-<p float="left">
+<p float="center">
   <img src="/images/final1.jpg" alt="alt text" width="45%">
   <img src="/images/final3.jpg" alt="alt text" width="45%"> 
 </p>
