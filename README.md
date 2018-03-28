@@ -285,3 +285,26 @@ As it turns out the knobs don't stand out enough of the panel. My quick work-aro
   <img src="/images/box21.jpg" alt="alt text" width="45%">
 </p>
 
+To optimize the backlight i coated the inside of the box with aluminum foil.
+
+<p float="auto">
+  <img src="/images/box22.jpg" alt="alt text" width="45%">
+  <img src="/images/box23.jpg" alt="alt text" width="45%">
+</p>
+
+To get an impression of the effect i made two test photos:
+
+
+<p float="auto">
+  <img src="/images/box24.jpg" alt="alt text" width="45%">
+  <img src="/images/box25.jpg" alt="alt text" width="45%">
+</p>
+
+It may does not immediately stand out but by looking at the illumination of the flashlight, especially the silver body of it one can clearly see much improvement.
+
+After the box was nearly finished i applied the panel to the box, marked the holes for the mouting and put it the threads.
+
+<p float="auto">
+  <img src="/images/box26.jpg" alt="alt text" width="45%">
+  <img src="/images/box27.jpg" alt="alt text" width="45%">
+</p>
