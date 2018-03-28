@@ -101,7 +101,7 @@ In retrospective i would probably increase the drilling holes for the PWMs and S
 As mentioned above i wanted the switches to have a connector, so the panel would be easily demountable. So its soldering time! 
 
 <p float="auto">
-  <img src="/images/cable1.JPG" alt="alt text" width="45%">
+  <img src="/images/cable1.jpg" alt="alt text" width="45%">
   <img src="/images/cable2.jpg" alt="alt text" width="45%"> 
 </p>
 
@@ -110,19 +110,19 @@ Make sure you get mark every signal with a specific color. And don't let your co
 The cable for the PWM needs to be open ended. Make sure to coat the ends slightly with a bit of solder.
 
 <p float="auto">
-  <img src="/images/cable3.JPG" alt="alt text" width="45%">
+  <img src="/images/cable3.jpg" alt="alt text" width="45%">
 </p>
 
 I decided to solder the cable for the LED-Strip directly to the strap. Make sure that the cable is long enough. Do not worry if its to long, you can put the rest of it into the box later.
 
 <p float="auto">
-  <img src="/images/cable5.JPG" alt="alt text" width="45%">
+  <img src="/images/cable5.jpg" alt="alt text" width="45%">
   <img src="/images/cable6.jpg" alt="alt text" width="45%"> 
 </p>
 
 At last i prepared the LED for the backlight.
 
 <p float="auto">
-  <img src="/images/LED.JPG" alt="alt text" width="45%">
+  <img src="/images/LED.jpg" alt="alt text" width="45%">
 </p>
 
