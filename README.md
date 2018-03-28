@@ -9,6 +9,11 @@ How i created a backlit RGB-LED Control Panel for my kids (Report / DIY Guide)
     + [The Panel](#the-panel)
     + [Cable Assembly](#cable-assembly)
     + [Soldering the Connector-Board](#soldering-the-connector-board)
+    + [Building the wood casing](#building-the-wood-casing)
+    + [Done](#done)
+    
+    
+    ### Building the wood casing
 
 ## Overview
 
@@ -203,7 +208,7 @@ Hooray its still working:
 Feel free to skip this chapter entirely by beeing smarter than me in the first place :)
 
 
-### Building the wooding box
+### Building the wood casing
 
 First measure out your frame. In my case the area of the panel was 18x18cm, so i decided to make each piece of the frame 18.5x8cm. I though making the frame slightly bigger then the panel wouldn look as crude as making it smaller and it allows for some tolerances. Make sure to cut it on the right side of the line, because your blade will make the length of the pieces smaller otherwise. When measuring i add the width of the blade to the next length of the piece to compensate for that effect.
 
@@ -315,6 +320,8 @@ Since everything worked out, i finally glued it the power supply socket and moun
   <img src="/images/box31.jpg" alt="alt text" width="45%">
   <img src="/images/box32.jpg" alt="alt text" width="45%">
 </p>
+
+### Done
 
 Finally done!
 
