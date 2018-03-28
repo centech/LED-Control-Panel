@@ -22,7 +22,7 @@ But make sure to read through, since i made some glorious errors which like alwa
 - [Thread inserts 20x](https://www.ebay.de/itm/332450417100) (2,86 Euro for 20 pieces)
 - Wood of your choice and disposal (4 Euro)
 
-- Total material costs approx: 33 Euro
+- Total material costs approx: **33 Euro**
 
 To most expensive piece was the custom panel i made with [Ponoko](https://www.ponoko.com/) but this was mainly because of the high shipping costs to germany.
 I've used the [Black on White](https://www.ponoko.com/make-and-sell/show-material/607-acrylic-two-color-black-on-white) Material. Depending on your design and shipment location you might be able to 
@@ -33,7 +33,7 @@ create this panel much cheaper.
 - Materials $12.00  
 - Shiping $34.77 
 
-#### Total costs approx: 94 Euro ($117).
+Total costs approx: **94 Euro ($117)**
 
 ### Inspiration
 
@@ -46,7 +46,7 @@ Before i dive into my report, i want to thank Cody2084 again for his great Repor
 
 ## Report
 
-Ok before you start make sure that you choose the right buttons, switchse and controls for your panel. The diversity is huge.
+Ok before you start make sure that you choose the right buttons, switches and controls for your panel. The diversity is huge.
 
 I wanted the following features/requirements fullfilled by my modules
 
@@ -57,15 +57,22 @@ I wanted the following features/requirements fullfilled by my modules
 - Of cause the module should be backlit
 - I didn't want to solder the ICs on my own while i was fine with soldering a few wire lines and connectors
 
-I'm sure there are better soltions out there but i found these PWM Modules which actual purpose is to control motors. But i found out that it worked just fine as a RGB controler.
+I'm sure there are better solutions out there but i found these PWM Modules which actual purpose is to control motors. But i found out that it worked just fine as a RGB controler.
 So thats how it would be able to adjust each color individually. 
 
-Now to be able to "overwrite" this settings i decided to use three switches (red, green, blue) to get each LED in full brightness mode with a simple click. By combining these buttons one could create a total of 7 colors (red, green, blue, cyan, magenta, yellow, white)
+<img src="/images/PWM.JPG" alt="pwm" width="640px"> 
 
-This is the schematic i came up with. Feel free to use and optimize it. Please bear in mind that at that point i didn't think about writing a report about my project. Thats why its very crude looking.
+Now to be able to "overwrite" this settings i decided to use three switches (red, green, blue) to get each LED in full brightness mode with a simple click. 
+
+<img src="/images/switch.JPG" alt="switch" width="640px"> 
+
+By combining these buttons one could create a total of 7 colors (red, green, blue, cyan, magenta, yellow, white)
+
+This is the [board schematic](/board/board.sch) i came up with. Feel free to use and optimize it. Please bear in mind that at that point i didn't think about writing a report about my project. Thats why its very crude looking.
 
 <img src="/images/schematic.JPG" alt="alt text" width="640px"> 
 
-Here is the layout. Red lines are cables, blue lines are soldered wires on the board. (I leave this here for completeness but do your self a favour and create your own, better schematic and layout!).
+Here is the [board layout](/board/board.brd). Red lines are cables, blue lines are soldered wires on the board. (I leave this here for completeness but do your self a favour and create your own better schematic and layout!).
 
 <img src="/images/layout.JPG" alt="alt text" width="640px"> 
+
