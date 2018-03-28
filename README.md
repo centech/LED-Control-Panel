@@ -5,7 +5,12 @@ How i created a backlit RGB-LED Control Panel for my kids (Report / DIY Guide)
 
 Final results first of cause :)
 
-<img src="/images/overview1.JPG" alt="alt text" width="640px"> 
+<img src="/images/final2.jpg" alt="alt text" width="90%"> 
+<p float="auto">
+  <img src="/images/final1.jpg" alt="alt text" width="45%">
+  <img src="/images/final3.jpg" alt="alt text" width="45%"> 
+</p>
+
 
 
 What follows is a list of my used components, as well as a few words where i took my inspirations. Finally the detailed report with a few suggestions for potential recreations. 
@@ -20,9 +25,10 @@ But make sure to read through, since i made some glorious errors which like alwa
 - [Cables](https://www.aliexpress.com/item/Tinned-copper-22AWG-led-RGB-cable-4-pin-RGB-cable-PVC-insulated-wire-22-awg-UL2468/32816156735.html)(0,47 Euro per meter)
 - [Power Supply](https://www.amazon.de/gp/product/B01N9MSILM/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) (8,99 Euro each)
 - [Thread inserts 20x](https://www.ebay.de/itm/332450417100) (2,86 Euro for 20 pieces)
+- [Green LED for backlighting](http://de.farnell.com/optek-technology/ovllg8c7/led-5mm-green/dp/1678694) (0.34 Euro each)
 - Wood of your choice and disposal (4 Euro)
 
-- Total material costs approx: **33 Euro**
+- Total material costs approx: **35 Euro**
 
 To most expensive piece was the custom panel i made with [Ponoko](https://www.ponoko.com/) but this was mainly because of the high shipping costs to germany.
 I've used the [Black on White](https://www.ponoko.com/make-and-sell/show-material/607-acrylic-two-color-black-on-white) Material. Depending on your design and shipment location you might be able to 
@@ -33,7 +39,7 @@ create this panel much cheaper.
 - Materials $12.00  
 - Shiping $34.77 
 
-Total costs approx: **94 Euro ($117)**
+Total costs approx: **96 Euro ($120)**
 
 ### Inspiration
 
@@ -57,10 +63,12 @@ I wanted the following features/requirements fullfilled by my modules
 - Of cause the module should be backlit
 - I didn't want to solder the ICs on my own while i was fine with soldering a few wire lines and connectors
 
+#### The Electronics
+
 I'm sure there are better solutions out there but i found these PWM Modules which actual purpose is to control motors. But i found out that it worked just fine as a RGB controler.
 So thats how it would be able to adjust each color individually. 
 
-<img src="/images/PWM.JPG" alt="pwm" width="640px"> 
+<img src="/images/PWM.JPG" alt="pwm" width="320px"> 
 
 Now to be able to "overwrite" this settings i decided to use three switches (red, green, blue) to get each LED in full brightness mode with a simple click. 
 
@@ -75,4 +83,46 @@ This is the [board schematic](/board/board.sch) i came up with. Feel free to use
 Here is the [board layout](/board/board.brd). Red lines are cables, blue lines are soldered wires on the board. (I leave this here for completeness but do your self a favour and create your own better schematic and layout!).
 
 <img src="/images/layout.JPG" alt="alt text" width="640px"> 
+
+#### The Panel
+
+Beeing sure on what components to use i started designing the panel. As mentioned before I've used the [Black on White](https://www.ponoko.com/make-and-sell/show-material/607-acrylic-two-color-black-on-white) Material from Ponoko. I wasn't sure if the white is translucent enough for the backlighting but since there was no other fitting material available i took the risk.
+Ponoko has some easy to understand tutorials and templates. So it was easy enough to create my design. I've [uploaded it here](/panel/Panel.svg), feel free to use it as a template. 
+
+<p float="auto">
+  <img src="/images/panel.JPG" alt="alt text" width="45%">
+  <img src="/images/panel2.jpg" alt="alt text" width="45%"> 
+</p>
+
+In retrospective i would probably increase the drilling holes for the PWMs and Switches to allow for a little more tolerance. Otherwise it turned out to be just perfect! Make sure to leave a big enough border, since there will be our wood frame and no backlight can reach this region. Also add a cutting line on the perimeter for a clean material cut and also include the mounting holes. By the way i used the free software [Inkscape](https://inkscape.org/) and it worked like a charm.
+
+#### Cable Assembly
+
+As mentioned above i wanted the switches to have a connector, so the panel would be easily demountable. So its soldering time! 
+
+<p float="auto">
+  <img src="/images/cable1.JPG" alt="alt text" width="45%">
+  <img src="/images/cable2.jpg" alt="alt text" width="45%"> 
+</p>
+
+Make sure you get mark every signal with a specific color. And don't let your concentration slip in the process. As you might be able to tell, i got the coloring wrong on one switch and had to mark these otherwise.
+
+The cable for the PWM needs to be open ended. Make sure to coat the ends slightly with a bit of solder.
+
+<p float="auto">
+  <img src="/images/cable3.JPG" alt="alt text" width="45%">
+</p>
+
+I decided to solder the cable for the LED-Strip directly to the strap. Make sure that the cable is long enough. Do not worry if its to long, you can put the rest of it into the box later.
+
+<p float="auto">
+  <img src="/images/cable5.JPG" alt="alt text" width="45%">
+  <img src="/images/cable6.jpg" alt="alt text" width="45%"> 
+</p>
+
+At last i prepared the LED for the backlight.
+
+<p float="auto">
+  <img src="/images/LED.JPG" alt="alt text" width="45%">
+</p>
 
