@@ -105,7 +105,7 @@ As mentioned above i wanted the switches to have a connector, so the panel would
   <img src="/images/cable2.jpg" alt="alt text" width="45%"> 
 </p>
 
-Make sure you get mark every signal with a specific color. And don't let your concentration slip in the process. As you might be able to tell, i got the coloring wrong on one switch and had to mark these otherwise.
+Make sure you mark every signal with a specific color. And don't let your concentration slip in the process. As you might be able to tell, i got the coloring wrong on one switch and had to mark these otherwise.
 
 The cable for the PWM needs to be open ended. Make sure to coat the ends slightly with a bit of solder.
 
@@ -113,16 +113,16 @@ The cable for the PWM needs to be open ended. Make sure to coat the ends slightl
   <img src="/images/cable3.jpg" alt="alt text" width="45%">
 </p>
 
-I decided to solder the cable for the LED-Strip directly to the strap. Make sure that the cable is long enough. Do not worry if its to long, you can put the rest of it into the box later.
+I decided to solder the cable for the LED-Strap directly to the strap. Make sure that the cable is long enough. Do not worry if its to long, you can put the rest of it into the box later.
 
 <p float="auto">
   <img src="/images/cable5.jpg" alt="alt text" width="45%">
   <img src="/images/cable6.jpg" alt="alt text" width="45%"> 
 </p>
 
-At last i prepared the LED for the backlight.
+At last i prepared the LEDs for the backlight.
 
 <p float="auto">
-  <img src="/images/LED.jpg" alt="alt text" width="45%">
+  <img src="/images/led.jpg" alt="alt text" width="45%">
 </p>
 
