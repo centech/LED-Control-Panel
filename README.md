@@ -245,7 +245,7 @@ The downside of the PWM boards is that the knob is directly soldered to the boar
   <img src="/images/box10.jpg" alt="alt text" width="45%">
 </p>
 
-At that point i realized i didn't have a fitting drill for my router. So i decided to use an even more advanced tool: the **battery-powered screwdriver**!
+At that point i realized i didn't had a fitting drill for my router. So i decided to use an even more advanced tool: the **battery-powered screwdriver**!
 
 <p float="auto">
   <img src="/images/box11.jpg" alt="alt text" width="45%">
