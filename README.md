@@ -243,9 +243,45 @@ The downside of the PWM boards is that the knob is directly soldered to the boar
   <img src="/images/box10.jpg" alt="alt text" width="45%">
 </p>
 
-At that point i realited i didn't have a fitting drill for my router. So i decided to use an even more advanced tool: the **battery-powered screwdriver**!
+At that point i realized i didn't have a fitting drill for my router. So i decided to use an even more advanced tool: the **battery-powered screwdriver**!
 
 <p float="auto">
   <img src="/images/box11.jpg" alt="alt text" width="45%">
   <img src="/images/box12.jpg" alt="alt text" width="45%">
 </p>
+
+Drilling in the threads is not so easy. I also drilled 2 holes in the backpanel to make it easiert to mount it to the wall.
+
+<p float="auto">
+  <img src="/images/box13.jpg" alt="alt text" width="45%">
+  <img src="/images/box14.jpg" alt="alt text" width="45%">
+</p>
+
+Now glue the frame togher. After that glue the frame to the buttom.
+
+<p float="auto">
+  <img src="/images/box15.jpg" alt="alt text" width="30%">
+  <img src="/images/box16.jpg" alt="alt text" width="30%">
+  <img src="/images/box17.jpg" alt="alt text" width="30%">
+</p>
+
+In the mean time i applied a natural [oil/wax mixture](https://www.amazon.de/gp/product/B002AP6YBW/) for protection and better look.
+
+<p float="auto">
+  <img src="/images/box18.jpg" alt="alt text" width="45%">
+  <img src="/images/box18a.jpg" alt="alt text" width="45%">
+</p>
+
+After thats done i assembled to PWMs to the frame:
+
+<p float="auto">
+  <img src="/images/box19.jpg" alt="alt text" width="45%">
+  <img src="/images/box20.jpg" alt="alt text" width="45%">
+</p>
+
+As it turns out the knobs don't stand out enough of the panel. My quick work-around was to glue a little piece of wood under the spacers. This did the trick.
+
+<p float="auto">
+  <img src="/images/box21.jpg" alt="alt text" width="45%">
+</p>
+
