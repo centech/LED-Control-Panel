@@ -157,3 +157,47 @@ I've also added a 12 Pin Socket (in series connected) to hook up 4 LEDs for the 
 <p float="auto">
   <img src="/images/board2.jpg" alt="alt text" width="90%">
 </p>
+
+After thats done. Throw some voltages and ampers at it and looks if it is working!
+
+<p float="auto">
+  <img src="/images/test1.jpg" alt="alt text" width="45%">
+  <img src="/images/test2.jpg" alt="alt text" width="45%"> 
+</p>
+
+Hooray it does! I played several minutes with it, but lets get back to work.
+
+### Panel Assembly
+
+So now lets simply insert all the switches to the panel and thats it. Hey why do we need a chapter for this simple task anyway?
+
+Ok here is the task: grab the below 3 switches (which are conveniently connected to 2 intertwined connectors) and click these into the 3 holes of the panel.
+
+<p float="auto">
+  <img src="/images/smart1.jpg" alt="alt text" width="45%">
+  <img src="/images/smart2.jpg" alt="alt text" width="45%">
+</p>
+
+Sure, you would have known better than me, thats not going to work :(
+
+So unwrap the heat shrink and disassemble the pins:
+
+<p float="auto">
+  <img src="/images/smart3.jpg" alt="alt text" width="45%">
+  <img src="/images/smart4.jpg" alt="alt text" width="45%">
+</p>
+
+Now thread it through the holes of the panel and assemble it again.
+
+<p float="auto">
+  <img src="/images/smart5.jpg" alt="alt text" width="45%">
+  <img src="/images/smart6.jpg" alt="alt text" width="45%">
+</p>
+
+Hooray its still working:
+
+<p float="auto">
+  <img src="/images/smart7.jpg" alt="alt text" width="90%">
+</p>
+
+Feel free to skip this chapter entirely by beeing smarter than me in the first place :)
