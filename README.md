@@ -339,3 +339,8 @@ Ofcause I need to regularly test it to insure its still working properly :)
   <img src="/images/result3.jpg" alt="alt text" width="45%">
   <img src="/images/result4.jpg" alt="alt text" width="45%">
 </p>
+
+<p float="auto">
+  <img src="/images/final2.jpg" alt="alt text" width="45%">
+  <img src="/images/final3.jpg" alt="alt text" width="45%">
+</p>
