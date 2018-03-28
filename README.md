@@ -11,9 +11,6 @@ How i created a backlit RGB-LED Control Panel for my kids (Report / DIY Guide)
     + [Soldering the Connector-Board](#soldering-the-connector-board)
     + [Building the wood casing](#building-the-wood-casing)
     + [Done](#done)
-    
-    
-    ### Building the wood casing
 
 ## Overview
 
