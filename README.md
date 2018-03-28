@@ -158,7 +158,7 @@ I've also added a 12 Pin Socket (in series connected) to hook up 4 LEDs for the 
   <img src="/images/board2.jpg" alt="alt text" width="90%">
 </p>
 
-After thats done. Throw some voltages and ampers at it and looks if it is working!
+After thats done. Throw some voltages and ampers at it and look if it is working!
 
 <p float="auto">
   <img src="/images/test1.jpg" alt="alt text" width="45%">
@@ -201,3 +201,51 @@ Hooray its still working:
 </p>
 
 Feel free to skip this chapter entirely by beeing smarter than me in the first place :)
+
+
+### Building the wooding box
+
+First measure out your frame. In my case the area of the panel was 18x18cm, so i decided to make each piece of the frame 18.5x8cm. I though making the frame slightly bigger then the panel wouldn look as crude as making it smaller and it allows for some tolerances. Make sure to cut it on the right side of the line, because your blade will make the length of the pieces smaller otherwise. When measuring i add the width of the blade to the next length of the piece to compensate for that effect.
+
+<p float="auto">
+  <img src="/images/box1.jpg" alt="alt text" width="45%">
+  <img src="/images/box2.jpg" alt="alt text" width="45%">
+</p>
+
+Now mark the edges of each piece. I decided to give them all a simple 45° cut and it turned out pretty good.
+
+<p float="auto">
+  <img src="/images/box3.jpg" alt="alt text" width="45%">
+  <img src="/images/box4.jpg" alt="alt text" width="45%">
+</p>
+
+After the frame is done, measure out the buttom, saw it, and put everything together. If something does not fit right, you may now correct it.
+
+<p float="auto">
+  <img src="/images/box5.jpg" alt="alt text" width="45%">
+  <img src="/images/box6.jpg" alt="alt text" width="45%">
+</p>
+
+In my case everything was to my satisfaction and i continue with marking all drills for the threads and cable exits.
+
+<p float="auto">
+  <img src="/images/box7.jpg" alt="alt text" width="45%">
+  <img src="/images/box7a.jpg" alt="alt text" width="45%">
+</p>
+<p float="auto">
+  <img src="/images/box8.jpg" alt="alt text" width="45%">
+  <img src="/images/box9.jpg" alt="alt text" width="45%">
+</p>
+
+The downside of the PWM boards is that the knob is directly soldered to the board, this way i needed to board to be on the very edge of the frame.
+
+<p float="auto">
+  <img src="/images/box10.jpg" alt="alt text" width="45%">
+</p>
+
+At that point i realited i didn't have a fitting drill for my router. So i decided to use an even more advanced tool: the **battery-powered screwdriver**!
+
+<p float="auto">
+  <img src="/images/box11.jpg" alt="alt text" width="45%">
+  <img src="/images/box12.jpg" alt="alt text" width="45%">
+</p>
