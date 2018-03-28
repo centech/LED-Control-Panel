@@ -1,11 +1,10 @@
 # LED-Control-Panel
 How i created a backlit RGB-LED Control Panel for my kids (Report / DIY Guide)
 
-- [LED-Control-Panel](#led-control-panel)
-  * [Overview](#overview)
+- [Overview](#overview)
     + [List of used components](#list-of-used-components)
     + [Inspiration](#inspiration)
-  * [Report](#report)
+- [Report](#report)
     + [The Electronics](#the-electronics)
     + [The Panel](#the-panel)
     + [Cable Assembly](#cable-assembly)
